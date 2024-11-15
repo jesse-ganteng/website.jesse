@@ -1,2 +1,2 @@
-# website.jesse
-website data diri
+# Website.jesse
+Berisi informasi mengenai data diri
